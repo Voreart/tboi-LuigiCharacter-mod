@@ -1,0 +1,9 @@
+<players root="gfx/characters/costumes/" 
+         portraitroot="gfx/ui/boss/" 
+         nameimageroot="gfx/ui/boss/" 
+         bigportraitroot="gfx/ui/stage/">
+    <player name="Luigi" skin="char_luigi.png" hp="4"
+          nameimage="playername_luigi.png" 
+          portrait="playerportrait_luigi.png" 
+          bigportrait="playerportraitbig_luigi.png" skinColor="-1" items="282" />
+</players>

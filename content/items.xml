@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive cache="speed damage" name="Sidekick cap" description="#2 forever!" gfx="sidekick_cap.png" coins="10" />
+</items>
